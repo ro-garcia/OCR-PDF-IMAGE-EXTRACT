@@ -1,7 +1,7 @@
 # OCR Boletas Desktop
 
 <p align="center">
-  <img src="ocr.png" alt="Logo OCR" width="180"/>
+  <img src="ocr_boletas.png" alt="Logo OCR" width="180"/>
 </p>
 
 Aplicación de escritorio para extraer información de boletas PDF mediante OCR.
@@ -9,5 +9,5 @@ Aplicación de escritorio para extraer información de boletas PDF mediante OCR.
 ## Vista de la aplicación
 
 <p align="center">
-  <img src="ocr_boletas.png" alt="OCR Boletas Desktop" width="700"/>
+  <img src="ocr.png" alt="OCR Boletas Desktop" width="700"/>
 </p>
